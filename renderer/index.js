@@ -1,0 +1,1 @@
+const foo = require("@electron/remote").require("./foo");

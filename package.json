@@ -1,0 +1,29 @@
+{
+  "name": "electronpg",
+  "version": "1.0.0",
+  "description": "Electron playground.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfalanga/electronpg.git"
+  },
+  "keywords": [
+    "electron",
+    "node",
+    "javascript"
+  ],
+  "author": "Leandro Falanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfalanga/electronpg/issues"
+  },
+  "homepage": "https://github.com/lfalanga/electronpg#readme",
+  "dependencies": {
+    "@electron/remote": "^2.1.2",
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "^0.0.10"
+  }
+}
